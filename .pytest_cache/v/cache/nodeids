@@ -1,0 +1,12 @@
+[
+  "tests/test_redactor.py::test_word_counter",
+  "tests/test_redactor.py::test_redact_phone_numbers",
+  "tests/test_redactor.py::test_redact_dates",
+  "tests/test_redactor.py::test_redact_email_addresses",
+  "tests/test_redactor.py::test_redact_addresses",
+  "tests/test_redactor.py::test_redact_names",
+  "tests/test_redactor.py::test_redact_concept",
+  "tests/test_redactor.py::test_redact_gender",
+  "tests/test_unredactor.py::test_extract_features",
+  "tests/test_unredactor.py::test_unredact_file"
+]

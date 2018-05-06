@@ -1,0 +1,3 @@
+{
+  "tests/test_unredactor.py::test_unredact_file": true
+}
