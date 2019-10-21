@@ -6,7 +6,7 @@ gitdb2==2.0.3
 GitPython==2.1.8
 joblib==0.11
 more-itertools==4.1.0
-nltk==3.2.5
+nltk==3.4.5
 numpy==1.14.2
 pluggy==0.6.0
 py==1.5.3
